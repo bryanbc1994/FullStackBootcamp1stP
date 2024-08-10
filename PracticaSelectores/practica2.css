@@ -1,0 +1,59 @@
+body{
+  margin: 0;
+  padding: 0;  
+}
+/* Selector de elemento*/
+
+h1 {
+  color:red;
+}
+
+h2 {
+  color: blue;
+}
+
+.ofertas {
+  background-color: #1c82e8;
+  padding: 20px;
+}
+
+.nuevo {
+  color: purple;
+  font-size: 24px
+  font-weight: bold;
+}
+
+#zapato-de-cuero- {
+  font-size: 50px;
+}
+
+
+a[href="#"] {
+  color: green;
+  text-decoration: none;
+  font-size: 22px;
+  padding: 5px;
+ 
+}
+
+a:hover {
+  color: red;
+  font-size: 20px;
+  padding: 0x;
+}
+
+p::first-line{
+  font-weight: bold;
+  
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right:15px;
+}
+
+h2 + .producto {
+  margin-top:50px;
+}
+
+h3 
